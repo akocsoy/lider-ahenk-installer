@@ -69,6 +69,7 @@ Sunucu erişim bilgileri girildikten sonra "**Bağlantıyı Kontrol Et**" butonu
 
 Lider Ahenk bileşenlerinin hangi paket deposu kullanılarak kurulması bu menüde gerçekleştirilir. Stable lider ahenk paketleri için Ana Paket Deposu, test lider ahenk paketleri için Test Paket Deposu seçilir.
 Depo Key Dosyası: Lider Ahenk paket deposu için oluşturulan anahtar dosyasıyı ifade eder.
+Versiyon Seçimi: İstenilen Lider versiyonu seçilerek, seçili versiyonun kurulumu sağlanır.
 
 **NOT:** Kurulum yapılacak sunucu için paket depoları yerele aynalanmış ise(mirror) Depo Adresi ve Depo Key Dosyası için yerel adresler girilmelidir.
  
